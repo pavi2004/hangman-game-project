@@ -4,12 +4,6 @@ from string import ascii_uppercase
 import random
 from PIL import Image,ImageTk
 
-from tkinter import *
-from tkinter import messagebox
-from string import ascii_uppercase
-import random
-from PIL import Image,ImageTk
-
 
 def start():
     global root 
